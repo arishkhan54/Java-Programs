@@ -17,5 +17,11 @@ Java Streams and Lambda Expressions
 JDBC and Database Connectivity
 Java Server Pages (JSP) and Servlets
 
+(Technologies):
+
+Spring Boot
+Spring Security
+Spring AI
+
 Always eager to learn and explore new technologies in the Java ecosystem!
 
