@@ -14,6 +14,7 @@ public abstract class AbstractClass {
 			p=3.14f;
 			r=3f;
 			circle=p*r*r;
+			
 			System.out.println("Area of Circle is "+circle);
 
 		}
@@ -35,6 +36,7 @@ public abstract class AbstractClass {
 			l=10f;
 			b=20f;
 			rect=l*b;
+			
 			System.out.println("The Area Of Rectangle is "+rect);
 		}
 
